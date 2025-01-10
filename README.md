@@ -20,7 +20,7 @@ An introduction to common benchmarks, metrics, and other key factors for selecti
 | Topic | Skills |
 | ------ | ------ |
 | [Slides](./01-slides/README.md) | NLP Model Evaluation |
-| [ROUGE-BLEU]() | (./02-ROUGE-BLEU/README.md)| 
+| [ROUGE-BLEU](./02-ROUGE-BLEU/README.md)| Notebook that introduces Hugging Face Evaluate and Rouge/SacreBLEU metrics
 
 
 
